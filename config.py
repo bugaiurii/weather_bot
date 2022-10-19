@@ -1,1 +1,2 @@
 open_weather_token = "fc625dcb36b68bad050f8ceb1b5dcee6"
+tg_bot_token = "5720372629:AAEwEPporCle5hn7O1PJgXjWzH5t_yAK_BE"
